@@ -1,0 +1,74 @@
+html{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.text-white{
+  color: white;
+  margin: auto;
+  text-shadow: 3px 3px 5px rgb(216, 72, 72);
+}
+
+.text-black{
+  color: black;
+  margin-bottom: 20px;
+  text-shadow: 3px 3px 5px rgb(77, 216, 72);
+}
+
+#header{
+  text-align: center;
+  height: 500px;
+  background: url("img/river.jpg");
+  background-size: cover;
+  padding-top: 300px;
+}
+
+#title{
+  margin: 0px;
+  font-size: 80px;
+}
+
+#subtitle{
+  width: 80%;
+  margin-bottom: 40px;
+}
+
+
+.button{
+  color: white;
+  font-size: 25px;
+  font-weight: bolder;
+  text-decoration: none;
+  border: solid white;
+  padding: 10px;
+  box-shadow: 3px 3px 5px black;
+}
+
+.botton:hover{
+  color: black;
+  background-color: white;
+}
+
+#div_video {
+  background-color: white;
+  width: auto;
+  height: auto;
+  padding: 0px;
+  border: 0px solid white;
+  margin: 50px;
+}
+
+#icons {
+  background-color: white;
+  width: 700px;
+  height: auto;
+  padding: 50px;
+  border: 15px solid white;
+  margin: 20px;
+  text-align: justify;
+}
